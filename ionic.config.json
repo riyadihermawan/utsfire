@@ -1,0 +1,7 @@
+{
+  "name": "utsFire",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
